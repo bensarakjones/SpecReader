@@ -1,0 +1,13 @@
+C:\Users\Ben\Desktop\speccy2\bin\Release\OpenHardwareMonitorLib.dll
+C:\Users\Ben\Desktop\speccy2\obj\Release\speccy2.csproj.AssemblyReference.cache
+C:\Users\Ben\Desktop\speccy2\obj\Release\speccy2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben\Desktop\speccy2\obj\Release\speccy2.Form1.resources
+C:\Users\Ben\Desktop\speccy2\obj\Release\speccy2.csproj.GenerateResource.cache
+C:\Users\Ben\Desktop\speccy2\obj\Release\speccy2.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\speccy2\obj\Release\speccy2.csproj.CopyComplete
+C:\Users\Ben\Desktop\speccy2\bin\Release\SpecReader.exe.config
+C:\Users\Ben\Desktop\speccy2\bin\Release\SpecReader.exe
+C:\Users\Ben\Desktop\speccy2\bin\Release\SpecReader.pdb
+C:\Users\Ben\Desktop\speccy2\obj\Release\SpecReader.Properties.Resources.resources
+C:\Users\Ben\Desktop\speccy2\obj\Release\SpecReader.exe
+C:\Users\Ben\Desktop\speccy2\obj\Release\SpecReader.pdb
